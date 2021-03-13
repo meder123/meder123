@@ -22,4 +22,4 @@
 <img align="left" alt="Git" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
 <img align="left" alt="GitHub" width="24px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-[![Meder's github stats](https://github-readme-stats.vercel.app/api?username=meder123&show_icons=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+[![Meder's github stats](https://github-readme-stats.vercel.app/api?username=meder123&show_icons=true&theme=happy)](https://github.com/anuraghazra/github-readme-stats)
