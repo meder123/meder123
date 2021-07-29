@@ -4,4 +4,4 @@
 <a href="https://discord.com/users/437679536973414400"><p><img align="center" src="https://discord.c99.nl/widget/theme-4/437679536973414400.png" alt="meder"/></a>
 
 <a href="https://discord.gg/jf9bkQN9YJ">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meder123&langs_count=8&show_icons=true&layout=compact&bg_color=2C2F33&text_color=FFFFFF4&icon_color=B25665&title_color=FFFFFF" alt="meder123"/>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meder123&langs_count=8&show_icons=true&layout=compact&bg_color=2C2F33&text_color=FFFFFF&icon_color=B25665&title_color=FFFFFF" alt="meder123"/>
